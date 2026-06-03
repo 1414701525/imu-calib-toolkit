@@ -1,0 +1,9 @@
+{
+  "format": "imu_calib_bundle",
+  "version": 1,
+  "files": {
+    "static": "static.csv",
+    "acc_poses": "acc_poses.csv",
+    "gyro_runs": "gyro_runs.csv"
+  }
+}
