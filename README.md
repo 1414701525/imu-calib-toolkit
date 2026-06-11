@@ -178,4 +178,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on keeping contributions p
 
 ## Contributing
 
-Contributions are welcome! Please see [ROADMAP.md](ROADMAP.md) for planned features and areas where help is needed.
+Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening issues or pull requests.
+
+For planned features and future work, see [ROADMAP.md](ROADMAP.md) and the open GitHub Issues.
