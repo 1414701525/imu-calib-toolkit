@@ -155,6 +155,23 @@ To use your own data, prepare CSV files following the format described in the [I
 - MATLAB (tested with R2024b+)
 - Optimization Toolbox (for some fitting routines)
 
+## Project Status
+
+**Current release**: [v0.1.0](docs/releases/v0.1.0.md) - Initial public release
+
+See [ROADMAP.md](ROADMAP.md) for planned features and development timeline.
+
+## Public-Safe Notice
+
+This repository contains only **public-safe content**:
+
+- All datasets are synthetic (deterministic RNG seed = 42)
+- No private company code, internal logs, or proprietary data
+- No API keys, tokens, or credentials
+- No internal file paths or project names
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on keeping contributions public-safe.
+
 ## License
 
 [MIT License](LICENSE)
